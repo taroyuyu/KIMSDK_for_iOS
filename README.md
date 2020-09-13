@@ -36,3 +36,9 @@ Feature List:
   - 发送通话邀请
   - 接受/拒绝通话邀请
   - 用户通话建立的媒体协商
+  
+Renderings/效果图
+
+![Single Chat](https://github.com/taroyuyu/KIMSDK_for_iOS/blob/master/demo/demo_single_chat.gif)
+
+![Video Chat](https://github.com/taroyuyu/KIMSDK_for_iOS/blob/master/demo/demo_single_chat.gif)
