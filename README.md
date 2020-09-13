@@ -7,7 +7,7 @@ Feature List:
 - Group Chat
 - Friend management
 - Online Status
-- Video/Voice calls
+- Video/Voice Chat
 
 功能如下：
 - 单聊
